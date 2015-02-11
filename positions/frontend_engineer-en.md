@@ -16,7 +16,6 @@
 ### Diferential
 - Sockets
 - NodeJS
-- ModelCore
 
 
 ### Local
@@ -30,7 +29,7 @@ CVs should be sent to: vagasti@clickbus.com
 ## A little bit about us...
 
 #### CLICKBUS 
-> www.clickbus.com.br, www.clickbus.com.mx, www.klickbus.de, www.clickbus.pl, www.clickbus.co.th, www.tikobus.com.tr, www.clickbus.com.pk ( and more )
+> www.clickbus.com.br, www.clickbus.com.mx, www.clickbus.com.tr ( and more )
 
 ClickBus is a global startup that born in June 2013, that gives the best offers to buy bus tickets. We are present in 7 countries: BR, MS, DE, PL, TH, PK, TR. We have plans to continue the expansion and we are searching for qualified professionals to run this vision.
 
