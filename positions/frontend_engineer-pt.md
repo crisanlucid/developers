@@ -18,7 +18,6 @@
 ### Diferenciais
 - Sockets
 - NodeJS
-- ModelCore
 
 
 ### BENEFÍCIOS (CLT e Outros)
