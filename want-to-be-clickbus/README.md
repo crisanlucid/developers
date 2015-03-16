@@ -6,7 +6,7 @@ Since 1999, Rocket Internet has created more than 100 market leader companies in
 How to submit the test
 ======================
 
-* Choose one of the two tests available in the folder **testes**;
+* Choose one of the two tests available ([**cash-machine**](https://github.com/RocketBus/developers/tree/master/want-to-be-clickbus/cash-machine) or [**group-by-interval**](https://github.com/RocketBus/developers/tree/master/want-to-be-clickbus/group-by-interval));
 * Send an email to vagasti@clickbus.com.br containing:
   * A file with the test (zip, tar.gz, etc)
   * The used PHP version and the dependencies
