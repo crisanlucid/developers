@@ -6,7 +6,7 @@ Since 1999, Rocket Internet has created more than 100 market leader companies in
 How to submit the test
 ======================
 
-* Perform a fork of this project;
+* Choose one of the two tests available in the folder **testes**;
 * Send an email to vagasti@clickbus.com.br containing:
   * A file with the test (zip, tar.gz, etc)
   * The used PHP version and the dependencies
