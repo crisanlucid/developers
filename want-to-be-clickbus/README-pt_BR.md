@@ -5,7 +5,7 @@ A ClickBus é um e-commerce de venda de passagens rodoviárias online, empresa d
 Como realizar o teste
 =====================
 
-* Escolha um dos dois testes disponíveis no diretório **testes**;
+* Escolha um dos dois testes disponíveis ([**cash-machine**](https://github.com/RocketBus/developers/tree/master/want-to-be-clickbus/cash-machine) ou [**group-by-interval**](https://github.com/RocketBus/developers/tree/master/want-to-be-clickbus/group-by-interval));
 * Envie email para vagasti@clickbus.com.br contendo:
   * Um arquivo com o teste (seja .zip, .tar.gz, etc) 
   * A versão do PHP utilizada e as dependências
