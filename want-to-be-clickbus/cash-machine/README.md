@@ -9,7 +9,8 @@ Develop a solution that simulate the delivery of notes when a client does a with
 The basic requirements are the follow:
 
 * Always deliver the lowest number of possible notes; 
-* It's possible to get the amount requested with available notes; * The client balance is infinite; Saldo do cliente é infinito;
+* It's possible to get the amount requested with available notes;
+* The client balance is infinite;
 * Amount of notes is infinite; 
 * Available notes R$ 100,00; R$ 50,00; R$ 20,00 e R$ 10,00
 
